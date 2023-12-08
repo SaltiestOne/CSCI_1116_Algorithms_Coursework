@@ -1,1 +1,1 @@
-# CSCI_1116_Algorithms_Coursework
+Contains coursework for the CSCI 1116- Algorithms and Data Structures course at Southwest Tech.
